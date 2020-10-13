@@ -15,3 +15,7 @@
   left: 0;
   z-index: -1;
 }
+
+nav p {
+  margin-right: 25px;
+}
